@@ -65,7 +65,7 @@
   padding: 60px 40px;
 }
 
-/* ラベル「料金プラン」 */
+/* ラベル「���金プラン」 */
 .pricing-label {
   font-family: 'Hiragino Sans', sans-serif;
   font-weight: 800;
@@ -151,6 +151,11 @@
 
   .pricing-title {
     font-size: 32px;
-    margin-bottom: 40px;
+    margin-bottom: 20px;
+  }
+
+  .pricing-subtitle {
+    font-size: 14px;
+    margin-bottom: 30px;
   }
 }
